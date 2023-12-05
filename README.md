@@ -10,9 +10,9 @@ and age?
 
 Tools : 
 
-Python(Jupyter notebook )
-Tableau
-Powerpoint 
-MS word
+Python(Jupyter notebook ),
+Tableau,
+Powerpoint, 
+MS word,
 GitHub 
 
